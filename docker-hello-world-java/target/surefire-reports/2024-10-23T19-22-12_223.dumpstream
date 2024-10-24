@@ -1,0 +1,5 @@
+# Created at 2024-10-23T19:22:12.687
+Boot Manifest-JAR contains absolute paths in classpath 'D:\NavinDhirwani\Learning\BackendDevelopment\repositories\learning-spring-boot-microservices\docker-hello-world-java\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
